@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Trebuchet MS';
+}
+
+body {
+    padding-top: 40px;
+}
+
+.header {
+    background-color: #3970d6;
+    color: #FFF;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.header h1 {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.right {
+    float: right;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+
+    background: none;
+    border: none;
+}
+
+.form {
+    background-color: #3970d6;
+    padding: 10px;
+
+    display: none;
+}
+
+.form input, .form textarea, .form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    opacity: 0.8;
+    border: none;
+}
+
+.form button {
+    background-color: #234E99;
+    color: #FFF;
+    
+    margin-top: 10px;
+}
+
+.list {
+    padding: 10px;
+}
+
+.item {
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+
+.item h2 {
+    font-size: 18px;
+}
+
+.item p {
+    opacity: 0.8;
+}
+
+.item img {
+    float: right;
+}
