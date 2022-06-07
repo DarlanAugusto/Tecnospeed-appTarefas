@@ -1,2 +1,2 @@
-# Tecnospeed---appTarefas
+# Tecnospeed-appTarefas
 Curso Tecnospeed desenvolvimento híbrido
